@@ -38,14 +38,4 @@ Muchas organizaciones no gubernamentales (ONG) y proyectos comunitarios enfrenta
 | **Base de Datos** | PostgreSQL |
 | **Frontend** | Angular / React |
 | **Herramientas** | Docker, Maven |
-
----
-
-## ⚙️ Configuración y Ejecución Local
-
-### Prerrequisitos
-* Java JDK 17 o superior
-* PostgreSQL 15+
-* Maven 3.8+
-
 #
